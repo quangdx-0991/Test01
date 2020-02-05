@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 feature/edit
+=======
+feature/edit
+>>>>>>> Stashed changes
