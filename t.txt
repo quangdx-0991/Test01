@@ -1,5 +1,0 @@
-feature/edit
-delete
-a
-b
-c
